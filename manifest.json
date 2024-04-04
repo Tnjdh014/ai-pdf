@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Summerize Me!",
+    "version": "1.0",
+    "description": "A Chrome extension to summarizes your PDF files and allows you to answer questions based on the summary. This extension is powered by AI.",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
