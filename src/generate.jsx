@@ -1,6 +1,6 @@
 const generate = async (promptInput, resultText, generateBtn, stopBtn) => {
     const API_URL = "https://api.ai21.com/studio/v1/summarize";
-    const API_KEY = "QNazDgYq1q8R4nMDqmrOMZn81v08oQZ9";
+    const API_KEY = "Iu8BsTJSeafKeh6YOJOwt1m5o8Oz179B";
 
     let controller = null; // Store the AbortController instance
 
